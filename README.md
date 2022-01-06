@@ -1,0 +1,1 @@
+Programlama dili olarak python kullanılan bu projede speech-recognition,opencv, yolov3 ve pyttsx3 teknolojileri de kullanılmıştır. Sesli komutlarla mail içeriği ve kişi belirlenir ve maili göndermek için kamera ile kişi onaylanmaktadır. ÖNEMLİ! boyutundan dolayı yolov3_custom_last.weights dosyası yüklenememiştir.
